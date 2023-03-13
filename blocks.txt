@@ -41,7 +41,6 @@ Bamboo Trapdoor.png
 Bamboo.png
 Barrel.png
 Basalt.png
-Bee Nest.png
 Beehive.png
 Beetroots.png
 Bell.png
@@ -182,7 +181,6 @@ Cracked Nether Bricks.png
 Cracked Polished Blackstone Bricks.png
 Cracked Stone Bricks.png
 Crafting Table.png
-Creeper Head.png
 Crimson Button.png
 Crimson Door.png
 Crimson Fence Gate.png
@@ -257,7 +255,6 @@ Diorite.png
 Dirt.png
 Dispenser.png
 Dragon Egg.png
-Dragon Head.png
 Dried Kelp Block.png
 Dripstone Block.png
 Dropper.png
@@ -579,7 +576,6 @@ Redstone Lamp.png
 Redstone Repeater.png
 Redstone Torch.png
 Redstone Wire.png
-Reinforced Deepslate.png
 Respawn Anchor.png
 Rooted Dirt.png
 Rose Bush.png
@@ -591,14 +587,11 @@ Sandstone.png
 Scaffolding.png
 Sculk Catalyst.png
 Sculk Sensor.png
-Sculk Shrieker.png
 Sculk Vein.png
-Sculk.png
 Sea Lantern.png
 Sea Pickle.png
 Seagrass.png
 Shroomlight.png
-Skeleton Skull.png
 Slime Block.png
 Small Dripleaf.png
 Smithing Table.png
@@ -623,7 +616,6 @@ Soul Sand.png
 Soul Soil.png
 Soul Torch.png
 Sponge.png
-Spore Blossom.png
 Spruce Button.png
 Spruce Door.png
 Spruce Fence Gate.png
@@ -743,7 +735,6 @@ White Terracotta.png
 White Tulip.png
 White Wool.png
 Wither Rose.png
-Wither Skeleton Skull.png
 Yellow Banner.png
 Yellow Bed.png
 Yellow Candle.png
@@ -755,4 +746,3 @@ Yellow Stained Glass Pane.png
 Yellow Stained Glass.png
 Yellow Terracotta.png
 Yellow Wool.png
-Zombie Head.png
