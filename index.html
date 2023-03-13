@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Minecraft Block Bingo</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <style>
+        html {
+            height: 100%;
+        }
+        body {
+            margin: 0 0;
+            overflow: hidden;
+            background-image: url("dirt.webp");
+            background-size: 90px 90px;
+            backdrop-filter: blur(4px);
+            width: 100%;
+            height: 100%;
+        }
+
+        table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #buttons {
+            text-align: center;
+        }
+
+        button {
+            margin-top: 2px;
+            border: 1px solid;
+            border-radius: 2px;
+            background-color: #b3f0c9;
+        }
+
+        button:hover {
+            background-color: rgb(140, 178, 140);
+            cursor: pointer;
+        }
+
+        td {
+            border: 1px solid #000000;
+            text-align: center;
+            padding: 8px;
+            width: 140px;
+            height: 140px;
+            overflow: hidden;
+        }
+
+        p {
+            font-weight: bold;
+            font-family: Verdana, sans-serif;
+            margin-top: 0;
+            margin-bottom: 0;
+            text-overflow: ellipsis;
+        }
+
+        img {
+            height: auto;
+            width: auto;
+            max-height: 80px;
+            max-width: 80px;
+        }
+
+        td {
+            transition: all .2s ease;
+            background-color: rgb(253, 186, 186);
+        }
+
+        .plan {
+            background-color: rgb(255, 255, 178);
+        }
+
+        .done {
+            background-color: rgb(176, 255, 195);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="buttons">
+        <button onclick="copy()">Copy</button>
+        <button onclick="loadin()">Load</button>
+        <button onclick="freecenter()">Free Square</button>
+    </div>
+    <table id="table">
+        <tr oncontextmenu="return false"></tr>
+        <tr oncontextmenu="return false"></tr>
+        <tr oncontextmenu="return false"></tr>
+        <tr oncontextmenu="return false"></tr>
+        <tr oncontextmenu="return false"></tr>
+    </table>
+    <script>
+        const table = document.getElementById("table");
+        var blocks = [];
+
+        function hasBlock(block, list) {
+            list.forEach(b => {
+                if (block == b.name) {
+                    return true;
+                }
+            })
+            return false;
+        }
+
+        fetch('blocks.txt')
+            .then(response => response.text())
+            .then(text => { dotable(text.split("\n")) })
+
+        function freecenter() {
+            let center = table.children[0].children[2].children[2];
+            center.innerHTML = "<b>FREE SQUARE</b>";
+            center.classList.toggle("done");
+        }
+
+        function copy() {
+            navigator.clipboard.writeText(blocks.join(",")).then(function () {
+                alert("Blocks copied to your clipboard")
+            });
+        }
+
+        function loadin() {
+            for (let i = 0; i < table.children[0].children.length; i++) {
+                let tr = table.children[0].children[i];
+                tr.innerHTML = "";
+            }
+            let data = prompt("Paste in data: ");
+            blocks = data.split(",");
+            load();
+        }
+
+        function load() {
+            for (let i = 0; i < table.children[0].children.length; i++) {
+                for (let j = 0; j < 5; j++) {
+                    let tr = table.children[0].children[i];
+                    let column = document.createElement("td");
+                    let div = document.createElement("div");
+                    let image = document.createElement("img");
+                    let p = document.createElement("p");
+                    let block = blocks[i * 5 + j];
+                    p.innerText = block.substring(0, block.length - 4);
+                    image.src = "images/" + block;
+                    column.append(p);
+                    div.append(image)
+                    column.append(div);
+                    tr.append(column);
+                    column.onmousedown = function (e) {
+                        if (e.button == 0) {
+                            column.classList.toggle("done");
+                        }
+                        if (e.button == 2) {
+                            column.classList.toggle("plan");
+                        }
+                    }
+                }
+            }
+        }
+
+        function dotable(allblocks) {
+            for (let i = 0; i < 25; i++) {
+                let block = allblocks[Math.floor(Math.random() * allblocks.length)];
+                while (hasBlock(block, blocks)) {
+                    block = allblocks[Math.floor(Math.random() * allblocks.length)];
+                }
+                blocks.push(block);
+            }
+            console.log(blocks);
+            load();
+        }
+    </script>
+</body>
+
+</html>
