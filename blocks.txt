@@ -274,7 +274,6 @@ Fletching Table.png
 Flower Pot.png
 Flowering Azalea Leaves.png
 Flowering Azalea.png
-Frogspawn.png
 Furnace.png
 Glass Pane.png
 Glass.png
@@ -672,11 +671,8 @@ Target.png
 Terracotta.png
 Tinted Glass.png
 Torch.png
-Torchflower Crop.png
-Torchflower.png
 Trapped Chest.png
 Tripwire Hook.png
-Tripwire.png
 Tuff.png
 Twisting Vines.png
 Verdant Froglight.png
