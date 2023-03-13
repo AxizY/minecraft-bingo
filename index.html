@@ -83,6 +83,7 @@
         <button onclick="copy()">Copy</button>
         <button onclick="loadin()">Load</button>
         <button onclick="freecenter()">Free Square</button>
+        <button onclick="reset()">Reset</button>
     </div>
     <table id="table">
         <tr oncontextmenu="return false"></tr>
@@ -95,6 +96,21 @@
         const table = document.getElementById("table");
         var blocks = [];
 
+        function deleteall() {
+            for (let i = 0; i < table.children[0].children.length; i++) {
+                let tr = table.children[0].children[i];
+                tr.innerHTML = "";
+            }
+        }
+
+        function reset() {
+            deleteall();
+            blocks = [];
+            fetch('blocks.txt')
+                .then(response => response.text())
+                .then(text => { dotable(text.split("\n")) })
+        }
+
         function hasBlock(block, list) {
             list.forEach(b => {
                 if (block == b.name) {
@@ -103,10 +119,6 @@
             })
             return false;
         }
-
-        fetch('blocks.txt')
-            .then(response => response.text())
-            .then(text => { dotable(text.split("\n")) })
 
         function freecenter() {
             let center = table.children[0].children[2].children[2];
@@ -121,10 +133,7 @@
         }
 
         function loadin() {
-            for (let i = 0; i < table.children[0].children.length; i++) {
-                let tr = table.children[0].children[i];
-                tr.innerHTML = "";
-            }
+            deleteall();
             let data = prompt("Paste in data: ");
             blocks = data.split(",");
             load();
@@ -168,6 +177,8 @@
             console.log(blocks);
             load();
         }
+
+        reset();
     </script>
 </body>
 

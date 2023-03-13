@@ -15,7 +15,6 @@ Acacia Trapdoor.png
 Acacia Wood.png
 Activator Rail.png
 Allium.png
-Amethyst Cluster.png
 Ancient Debris.png
 Andesite Slab.png
 Andesite Stairs.png
@@ -35,17 +34,13 @@ Bamboo Mosaic Stairs.png
 Bamboo Mosaic.png
 Bamboo Planks.png
 Bamboo Pressure Plate.png
-Bamboo Shoot.png
 Bamboo Sign.png
 Bamboo Slab.png
 Bamboo Stairs.png
 Bamboo Trapdoor.png
 Bamboo.png
 Barrel.png
-Barrier.png
 Basalt.png
-Beacon.png
-Bedrock.png
 Bee Nest.png
 Beehive.png
 Beetroots.png
@@ -73,7 +68,6 @@ Black Carpet.png
 Black Concrete Powder.png
 Black Concrete.png
 Black Glazed Terracotta.png
-Black Shulker Box.png
 Black Stained Glass Pane.png
 Black Stained Glass.png
 Black Terracotta.png
@@ -106,18 +100,13 @@ Blue Carpet.png
 Blue Concrete Powder.png
 Blue Concrete.png
 Blue Glazed Terracotta.png
-Blue Ice.png
 Blue Orchid.png
-Blue Shulker Box.png
 Blue Stained Glass Pane.png
 Blue Stained Glass.png
 Blue Terracotta.png
 Blue Wool.png
 Bone Block.png
 Bookshelf.png
-Brain Coral Block.png
-Brain Coral Fan.png
-Brain Coral.png
 Brewing Stand.png
 Brick Slab.png
 Brick Stairs.png
@@ -130,17 +119,11 @@ Brown Carpet.png
 Brown Concrete Powder.png
 Brown Concrete.png
 Brown Glazed Terracotta.png
-Brown Mushroom Block.png
 Brown Mushroom.png
-Brown Shulker Box.png
 Brown Stained Glass Pane.png
 Brown Stained Glass.png
 Brown Terracotta.png
 Brown Wool.png
-Bubble Coral Block.png
-Bubble Coral Fan.png
-Bubble Coral.png
-Budding Amethyst.png
 Cactus.png
 Cake.png
 Calcite.png
@@ -151,7 +134,6 @@ Cartography Table.png
 Carved Pumpkin.png
 Cauldron.png
 Cave Vines.png
-Chain Command Block.png
 Chain.png
 Cherry Button.png
 Cherry Door.png
@@ -179,9 +161,7 @@ Chiseled Red Sandstone.png
 Chiseled Sandstone.png
 Chiseled Stone Bricks.png
 Chorus Flower.png
-Chorus Plant.png
 Clay.png
-Coal Ore.png
 Coarse Dirt.png
 Cobbled Deepslate Slab.png
 Cobbled Deepslate Stairs.png
@@ -193,10 +173,8 @@ Cobblestone Wall.png
 Cobblestone.png
 Cobweb.png
 Cocoa.png
-Command Block.png
 Composter.png
 Conduit.png
-Copper Ore.png
 Cornflower.png
 Cracked Deepslate Bricks.png
 Cracked Deepslate Tiles.png
@@ -236,7 +214,6 @@ Cyan Carpet.png
 Cyan Concrete Powder.png
 Cyan Concrete.png
 Cyan Glazed Terracotta.png
-Cyan Shulker Box.png
 Cyan Stained Glass Pane.png
 Cyan Stained Glass.png
 Cyan Terracotta.png
@@ -262,47 +239,21 @@ Dark Prismarine Slab.png
 Dark Prismarine Stairs.png
 Dark Prismarine.png
 Daylight Detector.png
-Dead Brain Coral Block.png
-Dead Brain Coral Fan.png
-Dead Brain Coral.png
-Dead Bubble Coral Block.png
-Dead Bubble Coral Fan.png
-Dead Bubble Coral.png
 Dead Bush.png
-Dead Fire Coral Block.png
-Dead Fire Coral Fan.png
-Dead Fire Coral.png
-Dead Horn Coral Block.png
-Dead Horn Coral Fan.png
-Dead Horn Coral.png
-Dead Tube Coral Block.png
-Dead Tube Coral Fan.png
-Dead Tube Coral.png
-Decorated Pot.png
 Deepslate Brick Slab.png
 Deepslate Brick Stairs.png
 Deepslate Brick Wall.png
 Deepslate Bricks.png
-Deepslate Coal Ore.png
-Deepslate Copper Ore.png
-Deepslate Diamond Ore.png
-Deepslate Emerald Ore.png
-Deepslate Gold Ore.png
-Deepslate Iron Ore.png
-Deepslate Lapis Lazuli Ore.png
-Deepslate Redstone Ore.png
 Deepslate Tile Slab.png
 Deepslate Tile Stairs.png
 Deepslate Tile Wall.png
 Deepslate Tiles.png
 Deepslate.png
 Detector Rail.png
-Diamond Ore.png
 Diorite Slab.png
 Diorite Stairs.png
 Diorite Wall.png
 Diorite.png
-Dirt Path.png
 Dirt.png
 Dispenser.png
 Dragon Egg.png
@@ -310,44 +261,33 @@ Dragon Head.png
 Dried Kelp Block.png
 Dripstone Block.png
 Dropper.png
-Emerald Ore.png
 Enchanting Table.png
-End Portal Frame.png
 End Rod.png
 End Stone Brick Slab.png
 End Stone Brick Stairs.png
 End Stone Brick Wall.png
 End Stone Bricks.png
 End Stone.png
-Ender Chest.png
 Exposed Copper.png
 Exposed Cut Copper Slab.png
 Exposed Cut Copper Stairs.png
 Exposed Cut Copper.png
-Farmland.png
 Fern.png
-Fire Coral Block.png
-Fire Coral Fan.png
-Fire Coral.png
-Fire.png
 Fletching Table.png
 Flower Pot.png
 Flowering Azalea Leaves.png
 Flowering Azalea.png
 Frogspawn.png
 Furnace.png
-Gilded Blackstone.png
 Glass Pane.png
 Glass.png
 Glow Item Frame.png
 Glow Lichen.png
 Glowstone.png
-Gold Ore.png
 Granite Slab.png
 Granite Stairs.png
 Granite Wall.png
 Granite.png
-Grass Block.png
 Grass.png
 Gravel.png
 Gray Banner.png
@@ -357,7 +297,6 @@ Gray Carpet.png
 Gray Concrete Powder.png
 Gray Concrete.png
 Gray Glazed Terracotta.png
-Gray Shulker Box.png
 Gray Stained Glass Pane.png
 Gray Stained Glass.png
 Gray Terracotta.png
@@ -369,7 +308,6 @@ Green Carpet.png
 Green Concrete Powder.png
 Green Concrete.png
 Green Glazed Terracotta.png
-Green Shulker Box.png
 Green Stained Glass Pane.png
 Green Stained Glass.png
 Green Terracotta.png
@@ -381,24 +319,11 @@ Heavy Weighted Pressure Plate.png
 Honey Block.png
 Honeycomb Block.png
 Hopper.png
-Horn Coral Block.png
-Horn Coral Fan.png
-Horn Coral.png
-Ice.png
-Infested Chiseled Stone Bricks.png
-Infested Cobblestone.png
-Infested Cracked Stone Bricks.png
-Infested Deepslate.png
-Infested Mossy Stone Bricks.png
-Infested Stone Bricks.png
-Infested Stone.png
 Iron Bars.png
 Iron Door.png
-Iron Ore.png
 Iron Trapdoor.png
 Item Frame.png
 Jack o'Lantern.png
-Jigsaw Block.png
 Jukebox.png
 Jungle Button.png
 Jungle Door.png
@@ -418,13 +343,10 @@ Jungle Wood.png
 Kelp.png
 Ladder.png
 Lantern.png
-Lapis Lazuli Ore.png
-Large Amethyst Bud.png
 Large Fern.png
 Lava.png
 Lectern.png
 Lever.png
-Light Block.png
 Light Blue Banner.png
 Light Blue Bed.png
 Light Blue Candle.png
@@ -432,7 +354,6 @@ Light Blue Carpet.png
 Light Blue Concrete Powder.png
 Light Blue Concrete.png
 Light Blue Glazed Terracotta.png
-Light Blue Shulker Box.png
 Light Blue Stained Glass Pane.png
 Light Blue Stained Glass.png
 Light Blue Terracotta.png
@@ -444,7 +365,6 @@ Light Gray Carpet.png
 Light Gray Concrete Powder.png
 Light Gray Concrete.png
 Light Gray Glazed Terracotta.png
-Light Gray Shulker Box.png
 Light Gray Stained Glass Pane.png
 Light Gray Stained Glass.png
 Light Gray Terracotta.png
@@ -461,7 +381,6 @@ Lime Carpet.png
 Lime Concrete Powder.png
 Lime Concrete.png
 Lime Glazed Terracotta.png
-Lime Shulker Box.png
 Lime Stained Glass Pane.png
 Lime Stained Glass.png
 Lime Terracotta.png
@@ -475,7 +394,6 @@ Magenta Carpet.png
 Magenta Concrete Powder.png
 Magenta Concrete.png
 Magenta Glazed Terracotta.png
-Magenta Shulker Box.png
 Magenta Stained Glass Pane.png
 Magenta Stained Glass.png
 Magenta Terracotta.png
@@ -497,10 +415,7 @@ Mangrove Slab.png
 Mangrove Stairs.png
 Mangrove Trapdoor.png
 Mangrove Wood.png
-Medium Amethyst Bud.png
-Melon Stem.png
 Melon.png
-Monster Spawner.png
 Moss Block.png
 Moss Carpet.png
 Mossy Cobblestone Slab.png
@@ -517,18 +432,13 @@ Mud Brick Wall.png
 Mud Bricks.png
 Mud.png
 Muddy Mangrove Roots.png
-Mushroom Stem.png
-Mycelium.png
 Nether Brick Fence.png
 Nether Brick Slab.png
 Nether Brick Stairs.png
 Nether Brick Wall.png
 Nether Bricks.png
-Nether Gold Ore.png
-Nether Quartz Ore.png
 Nether Sprouts.png
 Nether Wart Block.png
-Nether Wart.png
 Netherrack.png
 Note Block.png
 Oak Button.png
@@ -557,7 +467,6 @@ Orange Carpet.png
 Orange Concrete Powder.png
 Orange Concrete.png
 Orange Glazed Terracotta.png
-Orange Shulker Box.png
 Orange Stained Glass Pane.png
 Orange Stained Glass.png
 Orange Terracotta.png
@@ -568,12 +477,9 @@ Oxidized Copper.png
 Oxidized Cut Copper Slab.png
 Oxidized Cut Copper Stairs.png
 Oxidized Cut Copper.png
-Packed Ice.png
 Packed Mud.png
 Pearlescent Froglight.png
 Peony.png
-Petrified Oak Slab.png
-Piglin Head.png
 Pink Banner.png
 Pink Bed.png
 Pink Candle.png
@@ -582,14 +488,12 @@ Pink Concrete Powder.png
 Pink Concrete.png
 Pink Glazed Terracotta.png
 Pink Petals.png
-Pink Shulker Box.png
 Pink Stained Glass Pane.png
 Pink Stained Glass.png
 Pink Terracotta.png
 Pink Tulip.png
 Pink Wool.png
 Piston.png
-Player Head.png
 Podzol.png
 Pointed Dripstone.png
 Polished Andesite Slab.png
@@ -627,7 +531,6 @@ Prismarine Slab.png
 Prismarine Stairs.png
 Prismarine Wall.png
 Prismarine.png
-Pumpkin Stem.png
 Pumpkin.png
 Purple Banner.png
 Purple Bed.png
@@ -636,7 +539,6 @@ Purple Carpet.png
 Purple Concrete Powder.png
 Purple Concrete.png
 Purple Glazed Terracotta.png
-Purple Shulker Box.png
 Purple Stained Glass Pane.png
 Purple Stained Glass.png
 Purple Terracotta.png
@@ -657,7 +559,6 @@ Red Carpet.png
 Red Concrete Powder.png
 Red Concrete.png
 Red Glazed Terracotta.png
-Red Mushroom Block.png
 Red Mushroom.png
 Red Nether Brick Slab.png
 Red Nether Brick Stairs.png
@@ -668,7 +569,6 @@ Red Sandstone Slab.png
 Red Sandstone Stairs.png
 Red Sandstone Wall.png
 Red Sandstone.png
-Red Shulker Box.png
 Red Stained Glass Pane.png
 Red Stained Glass.png
 Red Terracotta.png
@@ -676,12 +576,10 @@ Red Tulip.png
 Red Wool.png
 Redstone Comparator.png
 Redstone Lamp.png
-Redstone Ore.png
 Redstone Repeater.png
 Redstone Torch.png
 Redstone Wire.png
 Reinforced Deepslate.png
-Repeating Command Block.png
 Respawn Anchor.png
 Rooted Dirt.png
 Rose Bush.png
@@ -700,10 +598,8 @@ Sea Lantern.png
 Sea Pickle.png
 Seagrass.png
 Shroomlight.png
-Shulker Box.png
 Skeleton Skull.png
 Slime Block.png
-Small Amethyst Bud.png
 Small Dripleaf.png
 Smithing Table.png
 Smoker.png
@@ -722,7 +618,6 @@ Smooth Stone.png
 Snow Block.png
 Snow.png
 Soul Campfire.png
-Soul Fire.png
 Soul Lantern.png
 Soul Sand.png
 Soul Soil.png
@@ -775,11 +670,8 @@ Stripped Spruce Log.png
 Stripped Spruce Wood.png
 Stripped Warped Hyphae.png
 Stripped Warped Stem.png
-Structure Block.png
-Structure Void.png
 Sugar Cane.png
 Sunflower.png
-Suspicious Sand.png
 Sweet Berry Bush.png
 TNT.png
 Tall Grass.png
@@ -793,11 +685,7 @@ Torchflower.png
 Trapped Chest.png
 Tripwire Hook.png
 Tripwire.png
-Tube Coral Block.png
-Tube Coral Fan.png
-Tube Coral.png
 Tuff.png
-Turtle Egg.png
 Twisting Vines.png
 Verdant Froglight.png
 Vines.png
@@ -849,7 +737,6 @@ White Carpet.png
 White Concrete Powder.png
 White Concrete.png
 White Glazed Terracotta.png
-White Shulker Box.png
 White Stained Glass Pane.png
 White Stained Glass.png
 White Terracotta.png
@@ -864,7 +751,6 @@ Yellow Carpet.png
 Yellow Concrete Powder.png
 Yellow Concrete.png
 Yellow Glazed Terracotta.png
-Yellow Shulker Box.png
 Yellow Stained Glass Pane.png
 Yellow Stained Glass.png
 Yellow Terracotta.png
